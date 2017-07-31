@@ -1,0 +1,50 @@
+{
+    // フォント ファミリを制御します。
+    "editor.fontFamily": "'Ricty Diminished Discord', Consolas, 'Courier New', monospace",
+
+    // フォント サイズをピクセル単位で制御します。
+    "editor.fontSize": 16,
+
+    // 垂直ルーラーを表示する列
+    "editor.rulers": [72, 80, 100, 120],
+
+    // 行の折り返し方法を制御します。次の値を指定できます。
+    //  - 'off' (折り返さない)
+    //  - 'on' (ビューポート折り返し)
+    //  - 'wordWrapColumn' ('editor.wordWrapColumn' で折り返し)
+    //  - 'bounded' (ビューポートと 'editor.wordWrapColumn' の最小値で折り返し)。
+    "editor.wordWrap": "on",
+
+    // カーソルのアニメーション スタイルを制御します。指定できる値は 'blink'、'smooth'、'phase'、'expand'、'solid' です
+    "editor.cursorBlinking": "phase",
+
+    // Ctrl キーを押しながらマウス ホイールを使用してエディターのフォントをズームします
+    "editor.mouseWheelZoom": true,
+
+    // エディターが現在の行をどのように強調表示するかを制御します。考えられる値は 'none'、'gutter'、'line'、'all' です。
+    "editor.renderLineHighlight": "all",
+
+    // 有効にすると、スタートアップ時に、ようこそページが表示されます。
+    "workbench.welcome.enabled": false,
+
+    // ワークベンチで使用するアイコンのテーマを指定します。
+    "workbench.iconTheme": "vs-seti",
+
+    // 既定の改行文字。
+    "files.eol": "\n",
+
+    // 拡張機能を自動的に更新します
+    "extensions.autoUpdate": true,
+
+    // 端末が Windows で使用するシェルのパス。Windows に付属のシェル (cmd、PowerShell、または Bash on Ubuntu) を使用する場合、64 ビット バージョンを使用するには、C:\Windows\System32 ではなく、C:\Windows\sysnative を選びます。
+    "terminal.integrated.shell.windows": "C:\\Windows\\Sysnative\\WindowsPowerShell\\v1.0\\powershell.exe",
+
+    // 端末のカーソルを点滅させるかどうかを制御します。
+    "terminal.integrated.cursorBlinking": true,
+
+    // 端末のカーソルのスタイルを制御します。
+    "terminal.integrated.cursorStyle": "underline",
+
+    // 端末がそのバッファーに保持できる最大行数を制御します。
+    "terminal.integrated.scrollback": 10000
+}
