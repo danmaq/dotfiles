@@ -1,7 +1,4 @@
 {
-    // フォント ファミリを制御します。
-    "editor.fontFamily": "'Ricty Diminished Discord', Consolas, 'Courier New', monospace",
-
     // フォント サイズをピクセル単位で制御します。
     "editor.fontSize": 16,
 
@@ -24,8 +21,8 @@
     // エディターが現在の行をどのように強調表示するかを制御します。考えられる値は 'none'、'gutter'、'line'、'all' です。
     "editor.renderLineHighlight": "all",
 
-    // 有効にすると、スタートアップ時に、ようこそページが表示されます。
-    "workbench.welcome.enabled": false,
+    // 前のセッションからエディターが復元されていない場合に、起動時に表示するかどうかを制御します。'none' を選択するとエディターなしで開始します。'welcomePage' を選択するとウェルカム ページを開きます (既定)。'newUntitledFile' を選択すると新しい無題のファイルを開きます (フォルダーを開いていない場合のみ)。
+    "workbench.startupEditor": "welcomePage",
 
     // ワークベンチで使用するアイコンのテーマを指定します。
     "workbench.iconTheme": "vs-seti",
