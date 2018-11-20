@@ -1,10 +1,13 @@
 [user]
     email = info@danmaq.com
-    name = Shuhei Nomura
+    name = danmaq
+    signkey = 389ED92A80F771A7328AA56C270E3E4CA01C7CD3
 [core]
 	autoCRLF = false
 [color]
     ui = auto
+[commit]
+    gpgsign = true
 [merge]
     ff = false
 [fetch]
