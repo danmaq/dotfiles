@@ -1,5 +1,4 @@
 {
-  "twitter.nomedia": true,
   "breadcrumbs.enabled": true,
   "debug.node.autoAttach": "on",
   "editor.cursorBlinking": "phase",
@@ -29,7 +28,6 @@
   "explorer.openEditors.visible": 5,
   "files.defaultLanguage": "markdown",
   "files.eol": "\n",
-  "files.useExperimentalFileWatcher": true,
   "git.autofetch": true,
   "git.confirmSync": false,
   "git.enableCommitSigning": true,
@@ -53,6 +51,7 @@
   "typescript.locale": "ja",
   "typescript.referencesCodeLens.enabled": true,
   "typescript.suggest.completeFunctionCalls": true,
+  "typescript.surveys.enabled": false,
   "typescript.tsserver.log": "terse",
   "typescript.tsserver.trace": "messages",
   "typescript.updateImportsOnFileMove.enabled": "never",
