@@ -1,82 +1,81 @@
 {
-    "breadcrumbs.enabled": true,
-    "debug.node.autoAttach": "on",
-    "explorer.openEditors.visible": 5,
-    "editor.cursorBlinking": "phase",
-    "editor.find.globalFindClipboard": true,
-    "editor.fontLigatures": true,
-    "editor.fontSize": 12,
-    "editor.formatOnPaste": true,
-    "editor.formatOnSave": true,
-    "editor.formatOnType": true,
-    "editor.lineNumbers": "on",
-    "editor.minimap.maxColumn": 76,
-    "editor.mouseWheelZoom": false,
-    "editor.quickSuggestions": {
-        "comments": true
-    },
-    "editor.renderLineHighlight": "all",
-    "editor.rulers": [
-        75,
-        100,
-        120
-    ],
-    "editor.smoothScrolling": true,
-    "editor.snippetSuggestions": "bottom",
-    "editor.suggest.localityBonus": true,
-    "editor.wordWrap": "on",
-    "eslint.alwaysShowStatus": true,
-    "eslint.autoFixOnSave": true,
-    "files.defaultLanguage": "markdown",
-    "files.eol": "\n",
-    "files.useExperimentalFileWatcher": true,
-    "git.autofetch": true,
-    "git.confirmSync": false,
-    "git.enableCommitSigning": true,
-    "git.enableSmartCommit": true,
-    "git.promptToSaveFilesBeforeCommit": true,
-    "javascript.implicitProjectConfig.checkJs": true,
-    "javascript.implicitProjectConfig.experimentalDecorators": true,
-    "javascript.referencesCodeLens.enabled": true,
-    "javascript.suggest.completeFunctionCalls": true,
-    "javascript.updateImportsOnFileMove.enabled": "never",
-    "markdown.previewFrontMatter": "show",
-    "merge-conflict.autoNavigateNextConflict.enabled": true,
-    "npm.enableScriptExplorer": true,
-    "search.showLineNumbers": true,
-    "terminal.integrated.confirmOnExit": true,
-    "terminal.integrated.cursorBlinking": true,
-    "terminal.integrated.cursorStyle": "underline",
-    "terminal.integrated.experimentalBufferImpl": "TypedArray",
-    "terminal.integrated.fontSize": 11,
-    "terminal.integrated.scrollback": 10000,
-    "typescript.implementationsCodeLens.enabled": true,
-    "typescript.locale": "ja",
-    "typescript.referencesCodeLens.enabled": true,
-    "typescript.suggest.completeFunctionCalls": true,
-    "typescript.tsserver.log": "terse",
-    "typescript.tsserver.trace": "messages",
-    "typescript.updateImportsOnFileMove.enabled": "never",
-    "window.zoomLevel": 0,
-    "workbench.colorCustomizations": {
-        "editor.selectionHighlightBackground": "#ff000030",
-        "editor.selectionBackground": "#2cfafa80",
-        "editor.selectionHighlightBorder": "#ff000080"
-    },
-    "workbench.editor.tabSizing": "shrink",
+  "breadcrumbs.enabled": true,
+  "debug.node.autoAttach": "on",
+  "editor.cursorBlinking": "phase",
+  "editor.find.globalFindClipboard": true,
+  "editor.fontSize": 12,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.lineNumbers": "on",
+  "editor.minimap.maxColumn": 76,
+  "editor.mouseWheelZoom": false,
+  "editor.quickSuggestions": {
+    "comments": true
+  },
+  "editor.renderLineHighlight": "all",
+  "editor.rulers": [
+    75,
+    100,
+    120
+  ],
+  "editor.smoothScrolling": true,
+  "editor.snippetSuggestions": "bottom",
+  "editor.suggest.localityBonus": true,
+  "editor.wordWrap": "on",
+  "eslint.alwaysShowStatus": true,
+  "eslint.autoFixOnSave": true,
+  "explorer.openEditors.visible": 5,
+  "files.defaultLanguage": "markdown",
+  "files.eol": "\n",
+  "files.useExperimentalFileWatcher": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableCommitSigning": true,
+  "git.enableSmartCommit": true,
+  "git.promptToSaveFilesBeforeCommit": true,
+  "javascript.implicitProjectConfig.checkJs": true,
+  "javascript.implicitProjectConfig.experimentalDecorators": true,
+  "javascript.referencesCodeLens.enabled": true,
+  "javascript.suggest.completeFunctionCalls": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "markdown.previewFrontMatter": "show",
+  "merge-conflict.autoNavigateNextConflict.enabled": true,
+  "npm.enableScriptExplorer": true,
+  "search.showLineNumbers": true,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.experimentalBufferImpl": "TypedArray",
+  "terminal.integrated.fontSize": 11,
+  "terminal.integrated.scrollback": 10000,
+  "typescript.implementationsCodeLens.enabled": true,
+  "typescript.locale": "ja",
+  "typescript.referencesCodeLens.enabled": true,
+  "typescript.suggest.completeFunctionCalls": true,
+  "typescript.surveys.enabled": false,
+  "typescript.tsserver.log": "terse",
+  "typescript.tsserver.trace": "messages",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "window.zoomLevel": 0,
+  "workbench.colorCustomizations": {
+    "editor.selectionHighlightBackground": "#ff000030",
+    "editor.selectionBackground": "#2cfafa80",
+    "editor.selectionHighlightBorder": "#ff000080"
+  },
+  "workbench.editor.tabSizing": "shrink",
     "[html]": {
-        "editor.tabSize": 2
-    },
-    "[json]": {
-        "editor.tabSize": 2
-    },
-    "[javascript]": {
-        "editor.tabSize": 2
-    },
-    "[typescript]": {
-        "editor.tabSize": 2
-    },
-    "[xml]": {
-        "editor.tabSize": 2
-    }
+    "editor.tabSize": 2
+  },
+  "[json]": {
+    "editor.tabSize": 2
+  },
+  "[javascript]": {
+    "editor.tabSize": 2
+  },
+  "[typescript]": {
+    "editor.tabSize": 2
+  },
+  "[xml]": {
+    "editor.tabSize": 2
+  }
 }
