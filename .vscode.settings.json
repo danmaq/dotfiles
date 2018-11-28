@@ -28,6 +28,7 @@
   "explorer.openEditors.visible": 5,
   "files.defaultLanguage": "markdown",
   "files.eol": "\n",
+  "files.useExperimentalFileWatcher": true,
   "git.autofetch": true,
   "git.confirmSync": false,
   "git.enableCommitSigning": true,
@@ -61,7 +62,8 @@
     "editor.selectionBackground": "#2cfafa80",
     "editor.selectionHighlightBorder": "#ff000080"
   },
-  "[html]": {
+  "workbench.editor.tabSizing": "shrink",
+    "[html]": {
     "editor.tabSize": 2
   },
   "[json]": {
