@@ -48,11 +48,12 @@
   "terminal.integrated.experimentalBufferImpl": "TypedArray",
   "terminal.integrated.fontSize": 11,
   "terminal.integrated.scrollback": 10000,
+  "tslint.autoFixOnSave": true,
+  "tslint.jsEnable": true,
   "typescript.implementationsCodeLens.enabled": true,
   "typescript.locale": "ja",
   "typescript.referencesCodeLens.enabled": true,
   "typescript.suggest.completeFunctionCalls": true,
-  "typescript.surveys.enabled": false,
   "typescript.tsserver.log": "terse",
   "typescript.tsserver.trace": "messages",
   "typescript.updateImportsOnFileMove.enabled": "never",
@@ -63,7 +64,7 @@
     "editor.selectionHighlightBorder": "#ff000080"
   },
   "workbench.editor.tabSizing": "shrink",
-    "[html]": {
+  "[html]": {
     "editor.tabSize": 2
   },
   "[json]": {
