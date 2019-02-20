@@ -15,7 +15,6 @@
   "docker.truncateLongRegistryPaths": true,
   "editor.cursorBlinking": "phase",
   "editor.cursorSmoothCaretAnimation": true,
-  "editor.find.autoFindInSelection": true,
   "editor.find.globalFindClipboard": true,
   "editor.fontSize": 12,
   "editor.formatOnPaste": true,
