@@ -23,7 +23,6 @@
   "editor.formatOnType": true,
   "editor.glyphMargin": false,
   "editor.hideCursorInOverviewRuler": true,
-  "editor.largeFileOptimizations": false,
   "editor.lineNumbers": "on",
   "editor.minimap.maxColumn": 70,
   "editor.mouseWheelZoom": false,
@@ -44,9 +43,6 @@
   "explorer.confirmDelete": false,
   "explorer.openEditors.visible": 5,
   "extensions.closeExtensionDetailsOnViewChange": true,
-  "files.associations": {
-    ".eslintrc": "jsonc"
-  },
   "files.autoGuessEncoding": true,
   "files.autoSave": "onFocusChange",
   "files.defaultLanguage": "markdown",
@@ -57,6 +53,7 @@
     "**/Thumbs.db": true
   },
   "files.insertFinalNewline": true,
+  "files.useExperimentalFileWatcher": true,
   "git.autofetch": true,
   "git.autoStash": true,
   "git.confirmSync": false,
@@ -104,7 +101,6 @@
   "typescript.preferences.importModuleSpecifier": "non-relative",
   "typescript.referencesCodeLens.enabled": true,
   "typescript.suggest.completeFunctionCalls": true,
-  "typescript.surveys.enabled": false,
   "window.closeWhenEmpty": true,
   "window.nativeTabs": true,
   "window.zoomLevel": 0,
